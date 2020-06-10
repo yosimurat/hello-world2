@@ -1,0 +1,18 @@
+{
+  "name": "@yosimurat/hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yosimurat/hello-world.git"
+  },
+  "author": "yosimurat",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
